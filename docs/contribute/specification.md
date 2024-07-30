@@ -4,6 +4,14 @@ sidebar_position: 2
 
 # Specification
 
+:::note
+
+This documents is under construction.
+We need your support.
+Click "Edit This Page" in the bottom to contribute to our docs.
+
+:::
+
 ### Mission
 
 - Enhance Liberal Arts in ICU by making academic planning easy
