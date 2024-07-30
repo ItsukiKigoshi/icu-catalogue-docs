@@ -3,7 +3,7 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "ICU Catalogue",
+  title: "ICU Catalogue Docs",
   tagline: "Academic Planning Made Easy",
   favicon: "img/favicon.ico",
 
@@ -59,7 +59,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "ICU Catalogue",
+      title: "ICU Catalogue Docs",
       logo: {
         alt: "ICU Catalogue Logo",
         src: "img/logo.svg",
@@ -72,6 +72,11 @@ const config: Config = {
           label: "Tutorial",
         },
         { to: "/blog", label: "Blog", position: "left" },
+        {
+          href: "https://www.catalogue.icu/",
+          label: "ICU Catalogue",
+          position: "right",
+        },
         {
           href: "https://github.com/ItsukiKigoshi/icu-catalogue",
           label: "GitHub",
