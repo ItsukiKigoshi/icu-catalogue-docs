@@ -69,7 +69,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "🚧Tutorial",
         },
         {
           type: "docSidebar",
@@ -83,11 +83,6 @@ const config: Config = {
           label: "ICU Catalogue",
           position: "right",
         },
-        {
-          href: "https://github.com/ItsukiKigoshi/icu-catalogue",
-          label: "GitHub",
-          position: "right",
-        },
       ],
     },
     footer: {
@@ -97,7 +92,7 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Tutorial",
+              label: "🚧Tutorial",
               to: "/docs/tutorial/intro",
             },
             {
@@ -116,15 +111,28 @@ const config: Config = {
           ],
         },
         {
+          title: "GitHub Repos",
+          items: [
+            {
+              label: "Frontend",
+              href: "https://github.com/itsukikigoshi/icu-catalogue",
+            },
+            {
+              label: "Backend",
+              href: "https://github.com/itsukikigoshi/icu-catalogue-api",
+            },
+            {
+              label: "Docs (This Page)",
+              href: "https://github.com/itsukikigoshi/icu-catalogue-docs",
+            },
+          ],
+        },
+        {
           title: "More",
           items: [
             {
               label: "Blog",
               to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/itsukikigoshi/icu-catalogue",
             },
           ],
         },
