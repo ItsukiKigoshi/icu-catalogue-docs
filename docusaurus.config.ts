@@ -102,7 +102,7 @@ const config: Config = {
             },
             {
               label: "Contribute",
-              to: "/docs/contribute/specification",
+              to: "/docs/contribute/intro",
             },
           ],
         },
