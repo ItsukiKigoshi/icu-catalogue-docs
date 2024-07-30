@@ -65,19 +65,19 @@ const config: Config = {
         src: "img/logo.svg",
       },
       items: [
-        {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
-          position: "left",
-          label: "🚧Tutorial",
-        },
+        // {
+        //   type: "docSidebar",
+        //   sidebarId: "tutorialSidebar",
+        //   position: "left",
+        //   label: "🚧Tutorial",
+        // },
         {
           type: "docSidebar",
           sidebarId: "contributeSidebar",
           position: "left",
           label: "Contribute",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        // { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://www.catalogue.icu/",
           label: "ICU Catalogue",
@@ -91,10 +91,10 @@ const config: Config = {
         {
           title: "Docs",
           items: [
-            {
-              label: "🚧Tutorial",
-              to: "/docs/tutorial/intro",
-            },
+            // {
+            //   label: "🚧Tutorial",
+            //   to: "/docs/tutorial/intro",
+            // },
             {
               label: "Contribute",
               to: "/docs/contribute/intro",
