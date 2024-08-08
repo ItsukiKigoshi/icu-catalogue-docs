@@ -56,23 +56,23 @@ Click "Edit This Page" in the bottom to contribute to our docs.
 #### Second Priority
 
 1. **Course Recommendation**: Course recommendation system based on the user data with privacy security
-1. **Integrated curriculum tree**: (pre-required course list, interactive curriculum tree)
-1. **Bucket List**: Save the courses u wanna take next year
-1. **Requirement Checker**: Check Graduation/Major Requirements based on already enrolled courses list
-1. **I'm feeling lucky**: show random courses to get serendipity
+2. **Integrated curriculum tree**: (pre-required course list, interactive curriculum tree)
+3. **Bucket List**: Save the courses u wanna take next year
+4. **Requirement Checker**: Check Graduation/Major Requirements based on already enrolled courses list
+5. **I'm feeling lucky**: show random courses to get serendipity
    1. Search for random academic keywords (e.g. "Stereochemistry", "Chomsky")
-1. **TES, up-to-date**: Show TES over the years
+6. **TES, up-to-date**: Show TES over the years
    1. Can select instructors
-1. **Comment for Courses (?)**: User Review of the Syllabus
-1. **Import Required Courses**: ELA, 教職, 学芸員 (selecting feature of the courses from the 選択必修)
-1. **Export to Google Calendar**
-1. [We will receive ideas for additional features via ましゅまろ or other social media from all the ICU students!! (after releasing v1.0.0)]
+7. **Comment for Courses (?)**: User Review of the Syllabus
+8. **Import Required Courses**: ELA, 教職, 学芸員 (selecting feature of the courses from the 選択必修)
+9. **Export to Google Calendar**
+10. [We will receive ideas for additional features via ましゅまろ or other social media from all the ICU students!! (after releasing v1.0.0)]
 
 ### Routing
 
 #### App
 
-- https://www.catalogue.icu (redirected from https://www.catalogue.icu)
+- https://www.catalogue.icu
 - repo: https://github.com/ItsukiKigoshi/icu-catalogue
 
 #### API
