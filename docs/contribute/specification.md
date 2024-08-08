@@ -15,7 +15,6 @@ Click "Edit This Page" in the bottom to contribute to our docs.
 ### Mission
 
 - Enhance Liberal Arts in ICU by making academic planning easy
--
 
 ### Vision
 
@@ -35,6 +34,16 @@ Click "Edit This Page" in the bottom to contribute to our docs.
 -
 
 ### Members (Call for members)
+
+- **[Itsuki Kigoshi](https://itsukikigoshi.github.io/)** ('27): Project Manager, Engineer (Mainly frontend)
+- **Cao Yifei** ('27): Engineer (Mainly backend)
+- and more!
+
+:::info calling for new members!
+
+Please join our [Discord](discord.gg/2gmKTs4ezk):fire: Just looking around Discord is fine:smile:
+
+:::
 
 ### Features
 
