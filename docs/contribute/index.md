@@ -41,6 +41,6 @@ Click "Edit This Page" in the bottom to contribute to our docs.
 
 :::info calling for new members!
 
-Please join our [Discord](discord.gg/2gmKTs4ezk):fire: Just looking around Discord is fine:smile:
+Please join our [Discord](https://discord.gg/2gmKTs4ezk):fire: Just looking around Discord is fine:smile:
 
 :::
