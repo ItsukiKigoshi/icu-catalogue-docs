@@ -33,10 +33,11 @@ Click "Edit This Page" in the bottom to contribute to our docs.
 
 -
 
-### Members (Call for members)
+### Members (Call for members!)
 
 - **[Itsuki Kigoshi](https://itsukikigoshi.github.io/)** ('27): Project Manager, Engineer (Mainly frontend)
 - **Cao Yifei** ('27): Engineer (Mainly backend)
+- **Ena Miura** ('27): Business Manager
 - and more!
 
 :::info calling for new members!
