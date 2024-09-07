@@ -30,7 +30,7 @@ sidebar_position: 2
 2. **Integrated curriculum tree**: (pre-required course list, interactive curriculum tree)
    - Good example in [NUSMods](https://nusmods.com/)
      ![NUSMods "Prerequisite Tree"](nusmods-prerequisite-tree.png)
-3. **Bucket List**: Save the courses u wanna take next year
+3. **Planning Feature**: Save the courses u wanna take next year
    - Good example in [NUSMods](https://nusmods.com/)
      ![nusmods-course-planner](nusmods-course-planner.png)
 4. **Requirement Checker**: Check Graduation/Major Requirements based on already enrolled courses list
