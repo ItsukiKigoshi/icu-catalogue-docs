@@ -19,6 +19,7 @@ sidebar_position: 2
    4. Link to ICU Faculty Info
 2. (**Save, Sync & View the Registration:** Enrolled courses save & view feature via online database)
    - should we actually prepare online database? perhaps we can just continue to use LocalStorage like [NUSMods](https://nusmods.com/)
+   - →Registration data might be rarely shared with others, compared to other website's data like blog posts. thus, we might not have to store user's registration data online.
    1. Calculate the sum of units
    2. Can compare multiple courses
 
